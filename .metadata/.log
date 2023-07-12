@@ -377,3 +377,21 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 16:46:41.138
 !MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 17:38:15.399
+!MESSAGE Classpath changed for project: dslist
+
+!ENTRY org.eclipse.help.base 2 0 2023-07-12 17:50:23.430
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.jdt.doc.user_3.15.1800.v20230601-1614 [261]'. The index should be rebuilt with Lucene 9.4.2
+
+!ENTRY org.eclipse.help.base 2 0 2023-07-12 17:50:23.456
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.server.ui.doc.user_1.1.600.v201901310132 [477]'. The index should be rebuilt with Lucene 9.4.2
+
+!ENTRY org.eclipse.help.base 2 0 2023-07-12 17:50:23.500
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.pde.doc.user_3.14.2000.v20230601-1614 [386]'. The index should be rebuilt with Lucene 9.4.2
+
+!ENTRY org.eclipse.help.base 2 0 2023-07-12 17:50:23.516
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.platform.doc.user_4.28.0.v20230601-1614 [399]'. The index should be rebuilt with Lucene 9.4.2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-07-12 18:38:55.917
+!MESSAGE Classpath changed for project: dslist
